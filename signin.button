@@ -1,0 +1,36 @@
+<style type="text/css">
+.maxbutton {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 160px;
+  height: 50px;
+  border: 2px solid #3489aa;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #af9800;
+  box-shadow: 0px 0px 2px 0px #333333;
+}
+.maxbutton:hover {
+  border-color: #505ac7;
+  background-color: black;
+  box-shadow: 0px 0px 2px 0px #ffffff;
+}
+.maxbutton .mb-text {
+  color: #eeee22;
+  font-size: 15px;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1em;
+  box-sizing: border-box;
+  display: block;
+  background-color: unset;
+  position: relative;
+  padding: 18px 0px 0px 0px;
+}
+.maxbutton:hover .mb-text {
+  color: #ffffff;
+}
+</style>
+<a class="maxbutton" href="javascript:void(0);" data-maxbuttoncounter="{&quot;button_id&quot;:111350,&quot;url&quot;:&quot;javascript:void(0);&quot;,&quot;check&quot;:&quot;kbHtQyYD&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' data-nofont>Sign in with BenBen Nachname</span></a>
